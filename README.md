@@ -173,7 +173,7 @@ POST http://localhost:8080/orders
 
 ### Create Order (POST)
 
-![Create Order](images/Screenshot (50).png)
+![Create Order](images/Screenshot(50).png)
 
 ---
 
