@@ -169,6 +169,51 @@ POST http://localhost:8080/orders
 
 ---
 
+## 📸 API Testing
+
+### Create Order (POST)
+
+![Create Order](images/Screenshot(50).png)
+
+---
+
+### Get All Orders (GET)
+
+![Get Orders](images/Screenshot(49).png)
+
+---
+
+### Get Order By ID (GET)
+
+![Database](images/Screenshot(51).png)
+
+---
+
+### Update Order (PUT)
+
+![Get Orders](images/Screenshot(52).png)
+
+---
+
+### Delete Order (DELETE)
+
+![Get Orders](images/Screenshot(54).png)
+
+---
+
+### Database Verification
+
+![Get Orders](images/Screenshot(53).png)
+
+---
+
+### Database Verification
+
+![Get Orders](images/Screenshot(55).png)
+
+---
+
+
 ## 🔥 Key Learning Outcomes
 
 * Building REST APIs using Spring Boot
